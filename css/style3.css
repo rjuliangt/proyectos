@@ -1,0 +1,91 @@
+#portada,
+#contra-portada {
+    text-align: center;
+    padding: 20px;
+    height: 600px;
+    text-align: center;
+}
+
+#portada {
+    background-image: url(../img3/portada-min.jpg);
+    border: rgb(0, 0, 10) solid;
+}
+
+#contra-portada {
+    background-image: url(../img3/back.jpg);
+    border: rgb(0, 0, 10) solid;
+}
+
+#wrapper {
+    padding: 40px;
+}   
+
+#gotopage {
+    text-align: center;
+}
+
+#in_go {
+    width: 120px;
+    margin: 10px;
+}
+
+.sub_tituloP {
+    padding-top: 250px;
+}
+
+.autor {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.autor-name {
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+.page {
+    padding: 8px;
+    margin: 2px;
+}
+
+.img-container {
+    height: 40px;
+    width: 40px;
+    margin-left: 15px;
+}
+
+
+/*--------MIS ESTILOS (JULIAN)----------*/
+
+.tituloHoja {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 28px;
+    color: rgb(184, 93, 19);
+}
+
+.subtitulo {
+    text-align: left;
+    text-justify: distribute;
+    font-family: 'Calistoga', cursive;
+    color: rgb(22, 153, 72);
+}
+
+.fuente_p{
+font-size: medium;
+font-family: 'Calistoga', cursive;
+
+}
+.colortext {
+    color: aliceblue;
+}
+.caja_imagen{
+    width: 340px;
+    height: 200px;
+}
+
+.info{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+    text-align: justify;
+}
